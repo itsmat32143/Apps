@@ -59,3 +59,13 @@ M Download - I Update These Manual So May Not Be Latest Version
   <body onLoad="disableClick()">
   </body>
 </html>
+
+
+
+
+
+
+console._log = console.log
+console.log = function (log) {
+  return console._log(`%c ${log}`, 'color:rgba(255,255,255,0)');
+}
