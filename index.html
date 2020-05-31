@@ -40,32 +40,4 @@ M Download - I Update These Manual So May Not Be Latest Version
 <br>
 <br>  
 <br>
-<br>  
-
-
-<html>
-  <head>
-    <script>
-      function disableClick(){
-        document.onclick=function(event){
-          if (event.button == 2) {
-            alert('Right Click Message');
-            return false;
-          }
-        }
-      }
-    </script>
-  </head>
-  <body onLoad="disableClick()">
-  </body>
-</html>
-
-
-
-
-
-
-console._log = console.log
-console.log = function (log) {
-  return console._log(`%c ${log}`, 'color:rgba(255,255,255,0)');
-}
+<br>
