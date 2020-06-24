@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html>
    <head>
       <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "3; url =https://updates.signal.org/android/Signal-website-universal-release-4.64.6.apk" />
+      <meta http-equiv = "refresh" content = "3; url = https://updates.signal.org/android/Signal-website-universal-release-4.64.6.apk" />
    </head>
    <body>
       <p>Redirecting to another URL</p>
    </body>
 </html>
-;
