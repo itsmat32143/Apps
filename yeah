@@ -18,4 +18,17 @@
 <!-- PAGE LAYOUT -->
 
 
-<meta http-equiv="refresh" content="0; URL='https://updates.signal.org/android/Signal-website-universal-release-4.64.6.apk'" />
+https://updates.signal.org/android/Signal-website-universal-release-4.64.6.apk
+
+
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "2; url = https://www.tutorialspoint.cohttps://updates.signal.org/android/Signal-website-universal-release-4.64.6.apk" />
+   </head>
+   <body>
+      <p>Hello HTML5!</p>
+   </body>
+</html>
