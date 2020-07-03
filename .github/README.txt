@@ -1,8 +1,7 @@
-# Bannedapps.uk
-Don't Want To Pay For Netflix Use These Free Apps For All Devices
-# Bannedapps.uk/Android
-# Bannedapps.uk/iPhone
-# Bannedapps.uk/FireTV
-# Bannedapps.uk/Windows
-# Bannedapps.uk/Mac
-# Bannedapps.uk/Linux
+https://Bannedapps.uk
+https://Bannedapps.uk/Android
+https://Bannedapps.uk/iPhone
+https://Bannedapps.uk/FireTV
+https://Bannedapps.uk/Windows
+https://Bannedapps.uk/Mac
+https://Bannedapps.uk/Linux
