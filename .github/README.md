@@ -1,6 +1,10 @@
 
 https://github-readme-stats.vercel.app/api?username=itsmat32143
 
+
+https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true
+
+
 https://Bannedapps.uk
 https://Bannedapps.uk/Android
 https://Bannedapps.uk/iPhone
