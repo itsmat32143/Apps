@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: bannedapps.uk
-Token: 377e9af852c75a07dde161592045f496782c64d1d603cc532987dfba09549ad4
